@@ -1,10 +1,10 @@
-# A Story-Driven Guide to Mastering CDL in SAP CAP
+# A Story-Driven Guide to Mastering CDS in SAP CAP
 
-*Learn Conceptual Definition Language (CDL)the fun, practical, and memorable way!*
+*Learn Core Data Services (CDS)the fun, practical, and memorable way!*
 
 ---
 
-This book is a story-driven journey through the magical world of SAP's Cloud Application Programming Model (CAP), mastering Conceptual Definition Language (CDL) aka Core Data Services Definition Language and all its features. Each chapter is packed with story, practical code, and best practices—making complex concepts easy and engaging for everyone.
+This book is a story-driven journey through the magical world of SAP's Cloud Application Programming Model (CAP), mastering Core Data Services (CDS) and all its features. Each chapter is packed with story, practical code, and best practices—making complex concepts easy and engaging for everyone.
 
 ---
 
